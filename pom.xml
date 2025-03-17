@@ -20,6 +20,7 @@
         <module>module-3/l4-daemon-threads/m3-l4-daemon-threads</module>
         <module>module-3/l5-thread-exception-handling/m3-l5-thread-exception-handling-1</module>
         <module>module-3/l5-thread-exception-handling/m3-l5-thread-exception-handling-2</module>
+        <module>module-3/l5-thread-exception-handling/m3-l5-thread-exception-handling-3</module>
     </modules>
 
     <properties>
