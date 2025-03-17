@@ -1,4 +1,4 @@
-package sh.hahn.multithreading.module3.lecture2.example1;
+package sh.hahn.multithreading.module3.lecture2.thread_priorities;
 
 public class Main {
 
