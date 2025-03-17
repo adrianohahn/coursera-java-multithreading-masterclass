@@ -21,6 +21,7 @@
         <module>module-3/l5-thread-exception-handling/m3-l5-thread-exception-handling-1</module>
         <module>module-3/l5-thread-exception-handling/m3-l5-thread-exception-handling-2</module>
         <module>module-3/l5-thread-exception-handling/m3-l5-thread-exception-handling-3</module>
+        <module>module-3/l6-thread-local-variables-race-conditions/m3-l6-1-thread-local-variables</module>
     </modules>
 
     <properties>
