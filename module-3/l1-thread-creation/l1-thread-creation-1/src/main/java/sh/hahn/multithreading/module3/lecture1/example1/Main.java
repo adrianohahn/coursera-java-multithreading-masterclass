@@ -1,4 +1,4 @@
-package sh.hahn;
+package sh.hahn.multithreading.module3.lecture1.example1;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {
