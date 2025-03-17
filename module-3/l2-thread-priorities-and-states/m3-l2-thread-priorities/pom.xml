@@ -10,7 +10,7 @@
         <relativePath>../../../pom.xml</relativePath>
     </parent>
 
-    <artifactId>m3-l2-thread-priorities-and-states-1</artifactId>
+    <artifactId>m3-l2-thread-priorities</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
