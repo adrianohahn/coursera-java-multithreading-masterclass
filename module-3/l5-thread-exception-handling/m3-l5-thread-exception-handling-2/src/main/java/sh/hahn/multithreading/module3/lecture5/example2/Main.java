@@ -9,11 +9,10 @@ public class Main {
                 },
                 "Exception-Thread");
 
-        Thread.setDefaultUncaughtExceptionHandler((t, e) -> {
-            System.out.printf("Uncaught exception in thread %s: %s%n",
-                    t.getName(),
-                    e.getMessage());
-        });
+        Thread.setDefaultUncaughtExceptionHandler((t, e) ->
+                System.out.printf("Uncaught exception in thread %s: %s%n",
+                t.getName(),
+                e.getMessage()));
 
         thread.start();
         thread.join();
