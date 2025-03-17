@@ -7,13 +7,15 @@ public class Main {
         threadGroup.setMaxPriority(7);
 
         ThreadGroup parentThreadGroup = threadGroup;
-        String currentThreadGroupName = threadGroup.getName();
-        while ((parentThreadGroup = parentThreadGroup.getParent()) != null) {
-            System.out.printf("Thread group %s has the parent thread group %s with max priority: %d\n",
+        for (String currentThreadGroupName = threadGroup.getName();
+             (parentThreadGroup = parentThreadGroup.getParent()) != null;
+             currentThreadGroupName = parentThreadGroup.getName())
+        {
+            System.out.printf("Thread group %s's parent thread group is '%s' with max priority %d\n",
                     currentThreadGroupName,
                     parentThreadGroup.getName(),
                     parentThreadGroup.getMaxPriority());
-            currentThreadGroupName = parentThreadGroup.getName();
+
         }
 
         Thread thread1 = new Thread(threadGroup, Main::runThread, "Thread 1");
