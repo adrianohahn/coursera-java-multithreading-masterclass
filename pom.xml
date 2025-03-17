@@ -11,9 +11,9 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>module-3/l1-thread-creation/l1-thread-creation-1</module>
-        <module>module-3/l1-thread-creation/l1-thread-creation-2</module>
-        <module>module-3/l1-thread-creation/l1-thread-creation-3</module>
+        <module>module-3/l1-thread-creation/m3-l1-thread-creation-1</module>
+        <module>module-3/l1-thread-creation/m3-l1-thread-creation-2</module>
+        <module>module-3/l1-thread-creation/m3-l1-thread-creation-3</module>
     </modules>
 
     <properties>

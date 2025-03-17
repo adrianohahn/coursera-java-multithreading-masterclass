@@ -10,7 +10,7 @@
         <relativePath>../../../pom.xml</relativePath>
     </parent>
 
-    <artifactId>l1-thread-creation-2</artifactId>
+    <artifactId>m3-l1-thread-creation-2</artifactId>
 
 
     <properties>
