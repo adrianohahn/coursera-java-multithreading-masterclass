@@ -18,6 +18,7 @@
         <module>module-3/l2-thread-priorities-and-states/m3-l2-thread-states</module>
         <module>module-3/l3-thread-groups/m3-l3-thread-groups</module>
         <module>module-3/l4-daemon-threads/m3-l4-daemon-threads</module>
+        <module>module-3/l5-thread-exception-handling/m3-l5-thread-exception-handling-1</module>
     </modules>
 
     <properties>
