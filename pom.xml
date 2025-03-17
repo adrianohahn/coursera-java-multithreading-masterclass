@@ -15,6 +15,7 @@
         <module>module-3/l1-thread-creation/m3-l1-thread-creation-2</module>
         <module>module-3/l1-thread-creation/m3-l1-thread-creation-3</module>
         <module>module-3/l2-thread-priorities-and-states/m3-l2-thread-priorities</module>
+        <module>module-3/l2-thread-priorities-and-states/m3-l2-thread-states</module>
     </modules>
 
     <properties>
