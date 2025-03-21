@@ -27,6 +27,7 @@
         <module>module-4/l2-synchronized-keyword/m4-l2-synchronized-keyword</module>
         <module>module-4/l3-wait-sets-and-notifications/m4-l3-wait-sets-and-notifications</module>
         <module>module-4/l4-locks/m4-l4-locks</module>
+        <module>module-4/l5-read-write-locks/m4-l5-read-write-locks</module>
     </modules>
 
     <properties>
