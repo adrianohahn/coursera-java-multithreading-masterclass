@@ -24,6 +24,7 @@
         <module>module-3/l6-thread-local-variables-race-conditions/m3-l6-1-thread-local-variables</module>
         <module>module-3/l6-thread-local-variables-race-conditions/m3-l6-2-race-conditions</module>
         <module>module-3/l7-parallel-text-file-processing/m3-l7-parallel-text-file-processing</module>
+        <module>module-4/l2-synchronized-keyword/m4-l2-synchronized-keyword</module>
     </modules>
 
     <properties>
