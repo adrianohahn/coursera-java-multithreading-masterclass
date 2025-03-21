@@ -5,7 +5,7 @@ import java.util.Queue;
 
 public class Main {
 
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) {
         Queue<String> queue = new LinkedList<>();
         Thread producer = new Thread(new Producer(queue));
         Thread consumer = new Thread(new Consumer(queue));
@@ -21,6 +21,7 @@ public class Main {
             this.queue = queue;
         }
 
+        @SuppressWarnings("InfiniteLoopStatement")
         @Override
         public void run() {
             while (true) {
@@ -59,6 +60,7 @@ public class Main {
             this.queue = queue;
         }
 
+        @SuppressWarnings("InfiniteLoopStatement")
         @Override
         public void run() {
             while (true) {
