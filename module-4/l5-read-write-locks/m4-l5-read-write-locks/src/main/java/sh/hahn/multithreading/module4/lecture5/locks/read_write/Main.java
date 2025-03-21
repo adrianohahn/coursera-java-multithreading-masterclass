@@ -6,6 +6,7 @@ import java.util.Random;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReadWriteLock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
+import java.util.stream.IntStream;
 
 public class Main {
 
@@ -14,12 +15,11 @@ public class Main {
     private static final Lock readLock = lock.readLock();
     private static final Lock writeLock = lock.writeLock();
     private static final List<Integer> list = new ArrayList<>();
+    private static final int NUMBER_OF_READERS = 5;
 
     public static void main(String[] args) {
         new Thread(Main::runWrite).start();
-        new Thread(Main::runRead).start();
-        new Thread(Main::runRead).start();
-        new Thread(Main::runRead).start();
+        IntStream.range(0, NUMBER_OF_READERS).forEach(i -> new Thread(Main::runRead).start());
     }
 
     private static void runWrite() {
