@@ -29,6 +29,7 @@
         <module>module-4/l4-locks/m4-l4-locks</module>
         <module>module-4/l5-read-write-locks/m4-l5-read-write-locks</module>
         <module>module-4/l6-producer-consumer-condition/m4-l6-producer-consumer-condition</module>
+        <module>module-4/l7-semaphore/m4-l7-semaphore</module>
     </modules>
 
     <properties>
