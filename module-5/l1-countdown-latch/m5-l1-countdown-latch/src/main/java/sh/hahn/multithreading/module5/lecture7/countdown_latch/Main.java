@@ -1,7 +1,6 @@
 package sh.hahn.multithreading.module5.lecture7.countdown_latch;
 
 import java.util.concurrent.CountDownLatch;
-import java.util.stream.IntStream;
 
 public class Main {
 
