@@ -31,6 +31,7 @@
         <module>module-4/l6-producer-consumer-condition/m4-l6-producer-consumer-condition</module>
         <module>module-4/l7-semaphore/m4-l7-semaphore</module>
         <module>module-5/l1-countdown-latch/m5-l1-countdown-latch</module>
+        <module>module-5/l2-cyclic-barrier/m5-l2-cyclic-barrier</module>
     </modules>
 
     <properties>
