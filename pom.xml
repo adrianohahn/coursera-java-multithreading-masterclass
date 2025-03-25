@@ -32,6 +32,7 @@
         <module>module-4/l7-semaphore/m4-l7-semaphore</module>
         <module>module-5/l1-countdown-latch/m5-l1-countdown-latch</module>
         <module>module-5/l2-cyclic-barrier/m5-l2-cyclic-barrier</module>
+        <module>module-5/l3-phasers/m5-l3-phasers</module>
     </modules>
 
     <properties>
