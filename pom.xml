@@ -35,7 +35,8 @@
         <module>module-5/l3-phasers/m5-l3-phasers</module>
         <module>module-5/l4-exchanger/m5-l4-exchanger</module>
         <module>module-5/l5-deadlock/m5-l5-deadlock</module>
-        <module>module-5/m5-l6-volatile</module>
+        <module>module-5/l6-volatile/m5-l6-volatile</module>
+        <module>module-5/project/m5-project</module>
     </modules>
 
     <properties>
