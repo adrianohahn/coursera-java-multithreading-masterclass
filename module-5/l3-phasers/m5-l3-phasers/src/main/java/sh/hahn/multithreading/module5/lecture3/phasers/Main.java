@@ -22,6 +22,7 @@ public class Main {
         phaser.arriveAndAwaitAdvance();
 
         System.out.printf("Sum: %d\n", sum);
+        System.out.printf("Phase count: %d\n", phaser.getPhase());
 
     }
 
