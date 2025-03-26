@@ -38,6 +38,7 @@
         <module>module-5/l6-volatile/m5-l6-volatile</module>
         <module>module-5/project/m5-project</module>
         <module>module-6/l2-thread-pool-executor/m6-l2-thread-pool-executor</module>
+        <module>module-6/l3-work-queues-for-thread-pools/m6-l3-work-queues-for-thread-pools</module>
     </modules>
 
     <properties>
