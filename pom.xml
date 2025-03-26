@@ -43,6 +43,7 @@
         <module>module-6/l5-thread-pool-reject-tasks/m6-l5-thread-pool-reject-tasks</module>
         <module>module-6/l6-thread-pool-performance-monitoring/m6-l6-thread-pool-performance-monitoring</module>
         <module>module-6/l7-scheduled-thread-pool-executor/m6-l7-scheduled-thread-pool-executor</module>
+        <module>module-6/l8-fork-join-pools/m6-l8-fork-join-pools</module>
     </modules>
 
     <properties>
