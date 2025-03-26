@@ -40,6 +40,7 @@
         <module>module-6/l2-thread-pool-executor/m6-l2-thread-pool-executor</module>
         <module>module-6/l3-work-queues-for-thread-pools/m6-l3-work-queues-for-thread-pools</module>
         <module>module-6/l4-thread-pool-exception-handling/m6-l4-thread-pool-exception-handling</module>
+        <module>module-6/l5-thread-pool-reject-tasks/m6-l5-thread-pool-reject-tasks</module>
     </modules>
 
     <properties>
