@@ -45,6 +45,7 @@
         <module>module-6/l7-scheduled-thread-pool-executor/m6-l7-scheduled-thread-pool-executor</module>
         <module>module-6/l8-fork-join-pools/m6-l8-fork-join-pools</module>
         <module>module-6/l9-executors/m6-l9-executors</module>
+        <module>module-7/l1-quick-sort/m7-l1-quick-sort</module>
     </modules>
 
     <properties>
