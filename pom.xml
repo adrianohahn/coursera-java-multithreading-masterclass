@@ -47,6 +47,7 @@
         <module>module-6/l9-executors/m6-l9-executors</module>
         <module>module-7/l1-quick-sort/m7-l1-quick-sort</module>
         <module>module-7/l3-parallel-matrix-multiplication/m7-l3-parallel-matrix-multiplication</module>
+        <module>module-7/l4-parallel-optimal-matrix-multiplication/m7-l4-parallel-optimal-matrix-multiplication</module>
     </modules>
 
     <properties>
