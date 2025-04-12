@@ -48,8 +48,6 @@ public class Main {
 
                 acquireSemaphore(customerIdSemaphore);
 
-                long lastCustomerArrivedTime = System.nanoTime();
-
                 System.out.printf("[Barber] Cutting %s's hair%n", currentCustomerName);
                 try {
                     Thread.sleep(3000);
