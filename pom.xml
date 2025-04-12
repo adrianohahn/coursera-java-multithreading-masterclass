@@ -49,6 +49,7 @@
         <module>module-7/l3-parallel-matrix-multiplication/m7-l3-parallel-matrix-multiplication</module>
         <module>module-7/l4-parallel-optimal-matrix-multiplication/m7-l4-parallel-optimal-matrix-multiplication</module>
         <module>module-8/l1-dining-philosophers-problem/m8-l1-dining-philosophers-problem</module>
+        <module>module-8/l2-readers-writers-problem/m8-l2-readers-writers-problem</module>
     </modules>
 
     <properties>
