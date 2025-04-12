@@ -50,6 +50,7 @@
         <module>module-7/l4-parallel-optimal-matrix-multiplication/m7-l4-parallel-optimal-matrix-multiplication</module>
         <module>module-8/l1-dining-philosophers-problem/m8-l1-dining-philosophers-problem</module>
         <module>module-8/l2-readers-writers-problem/m8-l2-readers-writers-problem</module>
+        <module>module-8/l3-sleeping-barber-problem/m8-l3-sleeping-barber-problem</module>
     </modules>
 
     <properties>
