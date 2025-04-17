@@ -52,6 +52,7 @@
         <module>module-8/l2-readers-writers-problem/m8-l2-readers-writers-problem</module>
         <module>module-8/l3-sleeping-barber-problem/m8-l3-sleeping-barber-problem</module>
         <module>module-9/l1-visualvm/m9-l1-visualvm</module>
+        <module>module-9/l2-spring-boot-intro/m9-l2-spring-boot-intro</module>
     </modules>
 
     <properties>
