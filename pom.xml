@@ -54,6 +54,7 @@
         <module>module-9/l1-visualvm/m9-l1-visualvm</module>
         <module>module-9/l2-spring-boot-intro/m9-l2-spring-boot-intro</module>
         <module>module-9/l3-spring-boot-asynchronous/m9-l3-spring-boot-asynchronous</module>
+        <module>module-9/l5-rxjava-data-pipelines/m9-l5-rxjava-data-pipelines</module>
     </modules>
 
     <properties>
